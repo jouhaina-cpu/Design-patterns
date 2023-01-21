@@ -4,17 +4,17 @@ Design Patterns are typical solutions to commonly occurring problems in software
 
 This project consist of :
 
-* (Adaptateur) 
-* (Composite) 
-* (Etat) 
-* (Factory) 
-* (Factory2) 
-* (FactoryLogistic) 
-* (Monteur) 
-* (Observateur) 
-* (Observateur2) 
-* (Prototype)
-* (Singleton)
+* Adaptateur
+* Composite
+* Etat
+* Factory
+* Factory2
+* FactoryLogistic
+* Monteur
+* Observateur
+* Observateur2 
+* Prototype
+* Singleton
 
-## Langages
+## Langage
 * Java
